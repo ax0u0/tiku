@@ -1,0 +1,458 @@
+{
+  "grade": "一年级",
+  "subject": "数学",
+  "version": "1.0",
+  "total": 50,
+  "questions": [
+    {
+      "id": 1,
+      "type": "加法",
+      "question": "3 + 2 = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 2,
+      "type": "加法",
+      "question": "5 + 3 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 3,
+      "type": "加法",
+      "question": "7 + 2 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 4,
+      "type": "加法",
+      "question": "4 + 4 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 5,
+      "type": "加法",
+      "question": "6 + 3 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 6,
+      "type": "加法",
+      "question": "2 + 7 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 7,
+      "type": "加法",
+      "question": "8 + 1 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 8,
+      "type": "加法",
+      "question": "4 + 5 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 9,
+      "type": "加法",
+      "question": "9 + 1 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "10",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 10,
+      "type": "加法",
+      "question": "3 + 6 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "10以内加法"
+    },
+    {
+      "id": 11,
+      "type": "减法",
+      "question": "5 - 2 = ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "简单",
+      "category": "10以内减法"
+    },
+    {
+      "id": 12,
+      "type": "减法",
+      "question": "8 - 3 = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "10以内减法"
+    },
+    {
+      "id": 13,
+      "type": "减法",
+      "question": "9 - 4 = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "10以内减法"
+    },
+    {
+      "id": 14,
+      "type": "减法",
+      "question": "7 - 2 = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "10以内减法"
+    },
+    {
+      "id": 15,
+      "type": "减法",
+      "question": "10 - 3 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7",
+      "difficulty": "中等",
+      "category": "10以内减法"
+    },
+    {
+      "id": 16,
+      "type": "比较大小",
+      "question": "5 + 2 ○ 6",
+      "options": [">", "<", "="],
+      "answer": ">",
+      "difficulty": "简单",
+      "category": "比较大小"
+    },
+    {
+      "id": 17,
+      "type": "比较大小",
+      "question": "8 - 3 ○ 5",
+      "options": [">", "<", "="],
+      "answer": "=",
+      "difficulty": "简单",
+      "category": "比较大小"
+    },
+    {
+      "id": 18,
+      "type": "比较大小",
+      "question": "4 + 4 ○ 9",
+      "options": [">", "<", "="],
+      "answer": "<",
+      "difficulty": "简单",
+      "category": "比较大小"
+    },
+    {
+      "id": 19,
+      "type": "比较大小",
+      "question": "7 - 2 ○ 4",
+      "options": [">", "<", "="],
+      "answer": ">",
+      "difficulty": "简单",
+      "category": "比较大小"
+    },
+    {
+      "id": 20,
+      "type": "比较大小",
+      "question": "3 + 6 ○ 10",
+      "options": [">", "<", "="],
+      "answer": "<",
+      "difficulty": "简单",
+      "category": "比较大小"
+    },
+    {
+      "id": 21,
+      "type": "填空",
+      "question": "7 + □ = 10",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "简单",
+      "category": "填空"
+    },
+    {
+      "id": 22,
+      "type": "填空",
+      "question": "9 - □ = 4",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "填空"
+    },
+    {
+      "id": 23,
+      "type": "填空",
+      "question": "□ + 5 = 8",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "简单",
+      "category": "填空"
+    },
+    {
+      "id": 24,
+      "type": "填空",
+      "question": "□ - 3 = 4",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7",
+      "difficulty": "简单",
+      "category": "填空"
+    },
+    {
+      "id": 25,
+      "type": "应用题",
+      "question": "小明有5个苹果，小红给了他3个，现在小明有几个苹果？",
+      "options": ["5", "6", "7", "8"],
+      "answer": "8",
+      "difficulty": "中等",
+      "category": "应用题"
+    },
+    {
+      "id": 26,
+      "type": "应用题",
+      "question": "树上有8只鸟，飞走了3只，还剩几只？",
+      "options": ["3", "4", "5", "6"],
+      "answer": "5",
+      "difficulty": "中等",
+      "category": "应用题"
+    },
+    {
+      "id": 27,
+      "type": "应用题",
+      "question": "妈妈买了10个饺子，爸爸吃了4个，小明吃了3个，还剩几个？",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "中等",
+      "category": "应用题"
+    },
+    {
+      "id": 28,
+      "type": "应用题",
+      "question": "小红有7支铅笔，用掉了2支，又买了3支，现在有几支？",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "difficulty": "中等",
+      "category": "应用题"
+    },
+    {
+      "id": 29,
+      "type": "连加",
+      "question": "2 + 3 + 4 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "中等",
+      "category": "连加"
+    },
+    {
+      "id": 30,
+      "type": "连加",
+      "question": "1 + 5 + 3 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "difficulty": "中等",
+      "category": "连加"
+    },
+    {
+      "id": 31,
+      "type": "连减",
+      "question": "10 - 2 - 3 = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "中等",
+      "category": "连减"
+    },
+    {
+      "id": 32,
+      "type": "连减",
+      "question": "9 - 4 - 2 = ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "中等",
+      "category": "连减"
+    },
+    {
+      "id": 33,
+      "type": "加减混合",
+      "question": "5 + 3 - 2 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "difficulty": "中等",
+      "category": "加减混合"
+    },
+    {
+      "id": 34,
+      "type": "加减混合",
+      "question": "8 - 3 + 4 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "difficulty": "中等",
+      "category": "加减混合"
+    },
+    {
+      "id": 35,
+      "type": "看图列式",
+      "question": "☆☆☆ + ☆☆☆☆ = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "difficulty": "简单",
+      "category": "看图列式"
+    },
+    {
+      "id": 36,
+      "type": "看图列式",
+      "question": "●●●●● - ●● = ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "difficulty": "简单",
+      "category": "看图列式"
+    },
+    {
+      "id": 37,
+      "type": "位置",
+      "question": "在5和7中间的数字是？",
+      "options": ["4", "6", "8", "9"],
+      "answer": "6",
+      "difficulty": "简单",
+      "category": "位置"
+    },
+    {
+      "id": 38,
+      "type": "位置",
+      "question": "比8小比5大的数是？",
+      "options": ["4和5", "5和6", "6和7", "7和8"],
+      "answer": "6和7",
+      "difficulty": "中等",
+      "category": "位置"
+    },
+    {
+      "id": 39,
+      "type": "时钟",
+      "question": "时针指向3，分针指向12，是几点？",
+      "options": ["2点", "3点", "4点", "5点"],
+      "answer": "3点",
+      "difficulty": "中等",
+      "category": "时钟"
+    },
+    {
+      "id": 40,
+      "type": "时钟",
+      "question": "现在是2点，过2小时是几点？",
+      "options": ["2点", "3点", "4点", "5点"],
+      "answer": "4点",
+      "difficulty": "中等",
+      "category": "时钟"
+    },
+    {
+      "id": 41,
+      "type": "人民币",
+      "question": "1元可以换几个5角？",
+      "options": ["1个", "2个", "3个", "4个"],
+      "answer": "2个",
+      "difficulty": "中等",
+      "category": "人民币"
+    },
+    {
+      "id": 42,
+      "type": "人民币",
+      "question": "5角+5角=？",
+      "options": ["5角", "1元", "1元5角", "2元"],
+      "answer": "1元",
+      "difficulty": "中等",
+      "category": "人民币"
+    },
+    {
+      "id": 43,
+      "type": "找规律",
+      "question": "1, 2, 3, 4, ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "difficulty": "简单",
+      "category": "找规律"
+    },
+    {
+      "id": 44,
+      "type": "找规律",
+      "question": "2, 4, 6, 8, ?",
+      "options": ["9", "10", "11", "12"],
+      "answer": "10",
+      "difficulty": "中等",
+      "category": "找规律"
+    },
+    {
+      "id": 45,
+      "type": "找规律",
+      "question": "5, 4, 3, 2, ?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "1",
+      "difficulty": "中等",
+      "category": "找规律"
+    },
+    {
+      "id": 46,
+      "type": "统计",
+      "question": "小明有2个红球，3个蓝球，4个黄球，一共有几个球？",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "difficulty": "简单",
+      "category": "统计"
+    },
+    {
+      "id": 47,
+      "type": "统计",
+      "question": "图中苹果有3个，梨有2个，香蕉有4个，哪种水果最多？",
+      "options": ["苹果", "梨", "香蕉", "一样多"],
+      "answer": "香蕉",
+      "difficulty": "简单",
+      "category": "统计"
+    },
+    {
+      "id": 48,
+      "type": "图形",
+      "question": "下面哪个是圆形？",
+      "options": ["△", "□", "○", "☆"],
+      "answer": "○",
+      "difficulty": "简单",
+      "category": "图形"
+    },
+    {
+      "id": 49,
+      "type": "图形",
+      "question": "正方形有几条边？",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4",
+      "difficulty": "简单",
+      "category": "图形"
+    },
+    {
+      "id": 50,
+      "type": "趣味题",
+      "question": "一只鸭子2条腿，3只鸭子几条腿？",
+      "options": ["4", "5", "6", "7"],
+      "answer": "6",
+      "difficulty": "简单",
+      "category": "趣味题"
+    }
+  ]
+}
